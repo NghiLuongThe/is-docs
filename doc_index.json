@@ -1,12 +1,14 @@
 {
   "Introduction": {
     "github_path": "https://raw.githubusercontent.com/NghiLuongThe/is-docs/refs/heads/main/vam.md",
+    "title" : "Introduction to Vulnerability and Asset Management",
     "local_path": "vam.html",
     "description": "vam",
     "last_hash": "abc123"
   },
   "Installation": {
     "github_path": "https://raw.githubusercontent.com/NghiLuongThe/is-docs/refs/heads/main/cpe.md",
+    "title" : "What is CPE?",
     "local_path": "cpe.html",
     "description": "cpe",
     "last_hash": "def456"
@@ -14,6 +16,7 @@
   ,
   "Installation": {
     "github_path": "https://raw.githubusercontent.com/NghiLuongThe/is-docs/refs/heads/main/cwe.md",
+    "title" : "What is CWE?",
     "local_path": "cwe.html",
     "description": "cwe",
     "last_hash": "def456"
