@@ -6,13 +6,6 @@
       "local_path": "vam.html",
       "description": "vam",
       "last_hash": "abc123"
-    },
-    {
-      "github_path": "https://raw.githubusercontent.com/NghiLuongThe/is-docs/refs/heads/main/vul.md",
-      "title": "Introduction to Vulnerability",
-      "local_path": "vul.html",
-      "description": "vul",
-      "last_hash": "abc123"
     }
   ],
   "Installation": [
@@ -28,15 +21,6 @@
       "title": "What is CWE?",
       "local_path": "cwe.html",
       "description": "cwe",
-      "last_hash": "def456"
-    }
-  ],
-  "Guideline": [
-    {
-      "github_path": "https://raw.githubusercontent.com/NghiLuongThe/is-docs/refs/heads/main/guide.md",
-      "title": "Guide",
-      "local_path": "guide.html",
-      "description": "guide",
       "last_hash": "def456"
     }
   ]
