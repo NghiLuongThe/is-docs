@@ -1,20 +1,20 @@
 {
   "Introduction": {
     "github_path": "https://raw.githubusercontent.com/NghiLuongThe/is-docs/refs/heads/main/vam.md",
-    "local_path": "docs/vam.html",
+    "local_path": "vam.html",
     "description": "vam",
     "last_hash": "abc123"
   },
   "Installation": {
     "github_path": "https://raw.githubusercontent.com/NghiLuongThe/is-docs/refs/heads/main/cpe.md",
-    "local_path": "docs/cpe.html",
+    "local_path": "cpe.html",
     "description": "cpe",
     "last_hash": "def456"
   }
   ,
   "Installation": {
     "github_path": "https://raw.githubusercontent.com/NghiLuongThe/is-docs/refs/heads/main/cwe.md",
-    "local_path": "docs/cwe.html",
+    "local_path": "cwe.html",
     "description": "cwe",
     "last_hash": "def456"
   }
