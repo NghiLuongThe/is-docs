@@ -1,0 +1,12 @@
+{
+  "Introduction": {
+    "github_path": "https://raw.githubusercontent.com/your_repo/docs/introduction.md",
+    "local_path": "docs/introduction.md",
+    "last_hash": "abc123"
+  },
+  "Installation": {
+    "github_path": "https://raw.githubusercontent.com/your_repo/docs/installation.md",
+    "local_path": "docs/installation.md",
+    "last_hash": "def456"
+  }
+}
