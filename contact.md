@@ -1,4 +1,4 @@
-<p class="p1"><strong>Contact Us</strong></p>
+<center><h3>Contact Us</h3></center>
 <p class="p3" style="text-align: justify;">For more information, support, or custom feature requests regarding VAM, feel free to reach out to our development team. We are always ready to assist with inquiries, provide technical guidance, and discuss potential integrations or customizations to fit your organization&rsquo;s needs.</p>
 <ul>
 <li class="p4"><i class="fa fa-envelope"></i><strong>Email: </strong><em><a href="mailto:luongthenghi@gmail.com">luongthenghi@gmail.com</a></em></li>
