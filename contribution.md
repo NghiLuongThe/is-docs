@@ -1,0 +1,1 @@
+<p class="p3" style="text-align: justify;"><strong><em>Our team is looking for creative and patient collaborators to join us in building this project. We value and are committed to realizing all contributions and ideas with great appreciation.</em></strong></p>
