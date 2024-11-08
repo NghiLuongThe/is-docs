@@ -1,6 +1,5 @@
-<center><h1>Welcome to Vulnerability & Asset Management</h1></center>
+<center><h3>Vulnerability & Asset Management</h3></center>
 <hr/>
-<em><h4>Introduction to Vulnerability and Asset Management (VAM)</h4></em>
 <p class="p3" style="text-align: justify;"><strong>Vulnerability and Asset Management (VAM)</strong> is an innovative web platform designed to streamline the process of managing and monitoring vulnerabilities across various assets and devices. VAM consolidates critical information from multiple trusted sources such as NVD (National Vulnerability Database), MITRE, CISA, Red Hat, Tenable, ... into one centralized location. This ensures that users have continuous access to accurate, up-to-date vulnerability data, even if individual sources are temporarily unavailable.</p>
 <p class="p3" style="text-align: justify;">With a primary focus on the <strong>Common Vulnerabilities and Exposures (CVE)</strong> database, VAM allows users to efficiently search, filter, and organize vulnerability information by various criteria such as vendor, product, CVSS score, or CWE (Common Weakness Enumeration). The platform&rsquo;s advanced subscription feature enables users to follow specific vendors or products and receive real-time notifications when new vulnerabilities are published or existing ones are updated.</p>
 <p class="p3">Key features of VAM include:</p>
@@ -16,7 +15,7 @@
 <p class="p1"><strong>Contact Us</strong></p>
 <p class="p3" style="text-align: justify;">For more information, support, or custom feature requests regarding VAM, feel free to reach out to our development team. We are always ready to assist with inquiries, provide technical guidance, and discuss potential integrations or customizations to fit your organization&rsquo;s needs.</p>
 <ul>
-<li class="p4"><i class="fa fa-amazon"></i><strong>Email: </strong><em><a href="mailto:luongthenghi@gmail.com">luongthenghi@gmail.com</a></em></li>
+<li class="p4"><strong>Email: </strong><em><a href="mailto:luongthenghi@gmail.com">luongthenghi@gmail.com</a></em></li>
 <li class="p4"><strong>Phone: </strong><em><a href="tel:+84 339270120">(+84) 339 270 120</a></em></li>
 <li class="p4"><strong>Linkedin: </strong><em><a href="https://www.linkedin.com/in/luongthenghi/">luongthenghi</a></em></li>
 </ul>
