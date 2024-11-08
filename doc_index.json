@@ -5,7 +5,7 @@
       "title": "Introduction to Vulnerability and Asset Management",
       "subtile": "VAM",
       "brief": "Vulnerability and Asset Management (VAM) is an innovative web platform designed to streamline the process of managing and monitoring vulnerabilities across various assets and devices. VAM consolidates critical information from multiple trusted sources such as NVD (National Vulnerability Database), MITRE, CISA, Red Hat, Tenable, ... into one centralized location. This ensures that users have continuous access to accurate, up-to-date vulnerability data, even if individual sources are temporarily unavailable.",
-      "local_path": "vam.html",
+      "filename": "vam.html",
       "description": "vam",
       "hash": "abc123"
     }
@@ -16,7 +16,7 @@
       "title": "What is CPE?",
       "subtile": "CPE",
       "brief": "Common Platform Enumeration (CPE) is a standardized naming system developed by MITRE used to identify software, hardware, and operating systems in a consistent and unique manner, primarily within the cybersecurity domain. CPE aims to standardize how products and their versions are identified, facilitating easier tracking and management of vulnerabilities and security issues associated with specific products.",
-      "local_path": "cpe.html",
+      "filename": "cpe.html",
       "description": "cpe",
       "hash": "def456"
     },
@@ -25,7 +25,7 @@
       "title": "What is CWE?",
       "subtile": "CWE",
       "brief": "Common Weakness Enumeration (CWE) is a community-developed list of common software and hardware weaknesses, maintained by the MITRE Corporation. It is intended to serve as a common language for identifying, discussing, and addressing software vulnerabilities, which are essentially flaws in code that could be exploited by malicious actors to compromise a system.",
-      "local_path": "cwe.html",
+      "filename": "cwe.html",
       "description": "cwe",
       "hash": "def456"
     }
