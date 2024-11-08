@@ -17,7 +17,7 @@
       "subtile": "Risk Score",
       "brief": "A risk score is a quantitative metric used to evaluate the level of risk associated with a device within a network system. This score is determined based on various factors, including the device's critical functions, type of device, and the impact of known security vulnerabilities (CVE). Accurately assessing the risk score helps organizations prioritize their protection and remediation efforts.",
       "filename": "riskscore.html",
-      "description": "Severity Impact Classify the Type of Device crtitical high medium low",
+      "description": "riskscore Severity Impact Classify the Type of Device crtitical high medium low",
       "hash": "5eef07b921dd74c1123689982df475abb16d13d0f292c3c304a56e60c841ca06"
     },
     {
@@ -26,7 +26,7 @@
       "subtile": "Compliance Score",
       "brief": "Compliance score is a measurement used to assess the security posture of systems within an organization, ensuring they meet specific security and operational standards. The score is calculated based on eight criteria, each of which is rated as either Compliant or Uncompliant. These criteria are designed to ensure systems are secure, properly configured, and centrally managed.",
       "filename": "compliancescore.html",
-      "description": "Operating System OS Updates Right Hardening Identification External Device Centralized Management Monitoring",
+      "description": "compliancescore Operating System OS Updates Right Hardening Identification External Device Centralized Management Monitoring",
       "hash": "e30b7a1e06fcb5b145838d0e63f4d21917ad11bba4196b2699c8b1502f8d9156"
     }
   ],
@@ -37,7 +37,7 @@
       "subtile": "CPE",
       "brief": "Common Platform Enumeration (CPE) is a standardized naming system developed by MITRE used to identify software, hardware, and operating systems in a consistent and unique manner, primarily within the cybersecurity domain. CPE aims to standardize how products and their versions are identified, facilitating easier tracking and management of vulnerabilities and security issues associated with specific products.",
       "filename": "cpe.html",
-      "description": "cpe:2.3 part vendor product version update edition language sw_edition target_sw target_hw",
+      "description": "commonplatformenumeration cpe:2.3 part vendor product version update edition language sw_edition target_sw target_hw",
       "hash": "951c07fcf4670396c6b726ee4592cd36d80ab8ae98bf53f4910bb7aa19663ce1"
     },
     {
