@@ -6,18 +6,38 @@
       "subtile": "VAM",
       "brief": "Vulnerability and Asset Management (VAM) is an innovative web platform designed to streamline the process of managing and monitoring vulnerabilities across various assets and devices. VAM consolidates critical information from multiple trusted sources such as NVD (National Vulnerability Database), MITRE, CISA, Red Hat, Tenable, ... into one centralized location. This ensures that users have continuous access to accurate, up-to-date vulnerability data, even if individual sources are temporarily unavailable.",
       "filename": "vam.html",
-      "description": "vam",
+      "description": "Comprehensive CVE Search and Filtering Subscription and Notification Management Asset Tracking and Monitoring tag API Integration",
       "hash": "abc123"
     }
   ],
-  "Installation": [
+  "Guide": [
+    {
+      "github_path": "https://raw.githubusercontent.com/NghiLuongThe/is-docs/refs/heads/main/riskscore.md",
+      "title": "What is Risk Score?",
+      "subtile": "Risk Score",
+      "brief": "A risk score is a quantitative metric used to evaluate the level of risk associated with a device within a network system. This score is determined based on various factors, including the device's critical functions, type of device, and the impact of known security vulnerabilities (CVE). Accurately assessing the risk score helps organizations prioritize their protection and remediation efforts.",
+      "filename": "riskscore.html",
+      "description": "Severity Impact Classify the Type of Device crtitical high medium low",
+      "hash": "abcasdasd123"
+    },
+    {
+      "github_path": "https://raw.githubusercontent.com/NghiLuongThe/is-docs/refs/heads/main/compliancescore.md",
+      "title": "What is Compliance Score?",
+      "subtile": "Compliance Score",
+      "brief": "Compliance score is a measurement used to assess the security posture of systems within an organization, ensuring they meet specific security and operational standards. The score is calculated based on eight criteria, each of which is rated as either Compliant or Uncompliant. These criteria are designed to ensure systems are secure, properly configured, and centrally managed.",
+      "filename": "compliancescore.html",
+      "description": "Operating System OS Updates Right Hardening Identification External Device Centralized Management Monitoring",
+      "hash": "abcas12dasd123"
+    }
+  ],
+  "Knowledge": [
     {
       "github_path": "https://raw.githubusercontent.com/NghiLuongThe/is-docs/refs/heads/main/cpe.md",
       "title": "What is CPE?",
       "subtile": "CPE",
       "brief": "Common Platform Enumeration (CPE) is a standardized naming system developed by MITRE used to identify software, hardware, and operating systems in a consistent and unique manner, primarily within the cybersecurity domain. CPE aims to standardize how products and their versions are identified, facilitating easier tracking and management of vulnerabilities and security issues associated with specific products.",
       "filename": "cpe.html",
-      "description": "cpe",
+      "description": "cpe:2.3 part vendor product version update edition language sw_edition target_sw target_hw",
       "hash": "def456"
     },
     {
@@ -26,8 +46,37 @@
       "subtile": "CWE",
       "brief": "Common Weakness Enumeration (CWE) is a community-developed list of common software and hardware weaknesses, maintained by the MITRE Corporation. It is intended to serve as a common language for identifying, discussing, and addressing software vulnerabilities, which are essentially flaws in code that could be exploited by malicious actors to compromise a system.",
       "filename": "cwe.html",
-      "description": "cwe",
+      "description": "cve cvss",
       "hash": "xyz456"
+    },
+    {
+      "github_path": "https://raw.githubusercontent.com/NghiLuongThe/is-docs/refs/heads/main/ssvc.md",
+      "title": "What is SSVC?",
+      "subtile": "SSVC",
+      "brief": "SSVC (Stakeholder Specific Vulnerability Categorization), is a method designed to prioritize vulnerability management based on factors tailored to the needs of specific stakeholder groups. Unlike traditional vulnerability scoring systems like CVSS (Common Vulnerability Scoring System), SSVC takes a contextual approach by focusing on factors that are particularly relevant to each organization. This results in a prioritization system that helps stakeholders address vulnerabilities according to the actual risk level and urgency relevant to their unique environment.",
+      "filename": "ssvc.html",
+      "description": "Exploitation Automatable Technical Impact Public Safety Mission Categorization Process Identifying Relevant Factors Determining Priority Level Taking Action Based on Priority cisa",
+      "hash": "xyz4asdasd56"
+    }
+  ],
+  "Support": [
+    {
+      "github_path": "https://raw.githubusercontent.com/NghiLuongThe/is-docs/refs/heads/main/contact.md",
+      "title": "Contact Us",
+      "subtile": "Contact",
+      "brief": "For more information, support, or custom feature requests regarding VAM, feel free to reach out to our development team. We are always ready to assist with inquiries, provide technical guidance, and discuss potential integrations or customizations to fit your organization’s needs",
+      "filename": "contact.html",
+      "description": "contact mail phone ",
+      "hash": "absadc12asda3"
+    },
+    {
+      "github_path": "https://raw.githubusercontent.com/NghiLuongThe/is-docs/refs/heads/main/contribution.md",
+      "title": "Contribution",
+      "subtile": "Contribution",
+      "brief": "Inevitably, there may be some shortcomings as we develop the application. If you encounter any issues or unexpected displays while using it, please don't hesitate to reach out and share these details with our development team. We would greatly appreciate it if you could provide a description of the issue along with any relevant screenshots and the URL where the issue occurred.",
+      "filename": "contribution.html",
+      "description": "contribution issues error troubleshoot",
+      "hash": "absavfdc12asda3"
     }
   ]
 }
