@@ -61,15 +61,6 @@
   ],
   "Support": [
     {
-      "github_path": "https://raw.githubusercontent.com/NghiLuongThe/is-docs/refs/heads/main/contact.md",
-      "title": "Contact Us",
-      "subtile": "Contact",
-      "brief": "For more information, support, or custom feature requests regarding VAM, feel free to reach out to our development team. We are always ready to assist with inquiries, provide technical guidance, and discuss potential integrations or customizations to fit your organization’s needs",
-      "filename": "contact.html",
-      "description": "contact mail phone ",
-      "hash": "add45abf4cb3f58c226494bc65996474f0cb20c637e4d8dbf1629694891f8b00"
-    },
-    {
       "github_path": "https://raw.githubusercontent.com/NghiLuongThe/is-docs/refs/heads/main/contribution.md",
       "title": "Contribution",
       "subtile": "Contribution",
@@ -77,6 +68,15 @@
       "filename": "contribution.html",
       "description": "contribution issues error troubleshoot",
       "hash": "d1e983735a991c2343eb5d048b0a240b1862469c5a9916c49934adc071a19345"
+    },
+    {
+      "github_path": "https://raw.githubusercontent.com/NghiLuongThe/is-docs/refs/heads/main/contact.md",
+      "title": "Contact Us",
+      "subtile": "Contact",
+      "brief": "For more information, support, or custom feature requests regarding VAM, feel free to reach out to our development team. We are always ready to assist with inquiries, provide technical guidance, and discuss potential integrations or customizations to fit your organization’s needs",
+      "filename": "contact.html",
+      "description": "contact mail phone ",
+      "hash": "add45abf4cb3f58c226494bc65996474f0cb20c637e4d8dbf1629694891f8b00"
     }
   ]
 }
